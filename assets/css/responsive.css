@@ -1,0 +1,106 @@
+
+/*
+Author: XpeedStudio;
+Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
+*/
+
+@media (min-width:769px) and (max-width:991px) {
+.portfolio_images_overlay {
+    padding: 0px;
+}
+body{
+    font-size:95%;
+}
+h1{font-size:90%;}
+
+.single_pakeg_text ul li {
+    background: url(../images/pkli.png) no-repeat left center;
+    padding: 5px 0px 5px 60px;
+    margin-top: 15px;
+}
+.single_monail_apps_text {
+    margin-top: 40px;
+}
+
+.main_mobail_apps_content img{
+    text-align: right;
+}
+
+.single_monail_apps_text a{
+    margin-right:5px;
+}
+.main_menu_bg a.navbar-brand.our_logo{
+	top: -77px;
+	width: 40%;
+}
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 35%;
+}
+
+	
+}
+
+
+
+
+@media (max-width:768px){
+
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -78px;
+    width: 35%;
+}
+	
+.single_monail_apps_text {
+    margin-top: 40px;
+}
+.main_mobail_apps_content img{
+    text-align: right;
+}
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 50%;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #E7A331;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+    border: 0px;
+    background: rgba(0, 0, 0, .45);
+    margin-top: 14px;
+}
+
+
+}
+
+
+@media screen (min-width:320px) and (max-width:480px){
+
+.header_top_menu .call_us_text{
+	display:none !important;
+}
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -78px;
+    width: 35%;
+}
+	
+.single_monail_apps_text {
+    margin-top: 40px;
+}
+.main_mobail_apps_content img{
+    text-align: right;
+}
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 60%;
+}
+
+
+}
